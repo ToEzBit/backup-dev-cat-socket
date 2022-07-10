@@ -4,3 +4,6 @@
 <p>4.พิมพ์คำสั่ง npx sequelize-cli db:create ใน terminal เพื่อสร้าง data base ในเครื่องตัวเอง แล้วเช็คที่ mysql workbench จะเห็น data base ชื่อ dev_cat_database</p>
 <p>5.พิมพ์คำสั่ง npx sequelize-cli db:migrate เพื่อ run migrate ไฟล์ เพื่อสร้าง table ใน data base แล้วเช็คที่ mysql workbench จะเห็น table ถูกสร้างขึ้นมา</p>
 <p>6.พิมพ์คำสั่ง npm start เพื่อสั่ง start sever </p>
+
+[Erd](https://www.figma.com/file/5vxVwW4yoEk8BpZkXmJDsL/Untitled?node-id=0%3A1)\
+[Api Document](https://documenter.getpostman.com/view/21098507/UzBqo5GL)
